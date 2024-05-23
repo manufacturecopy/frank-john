@@ -1,0 +1,16 @@
+{
+  "name": "frankjohn",
+  "version": "1.0.0",
+  "description": "fdfdsf",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "kit",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "discord.js": "^14.15.2"
+  }
+}
